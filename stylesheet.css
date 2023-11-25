@@ -1,0 +1,47 @@
+body{background-color:BLACK;}
+.red {
+	background-color:red
+}
+
+.green {
+	background-color:green
+}
+
+.blue {
+	background-color:blue
+}
+
+.pink{
+	background-color:pink
+}
+
+.orange {
+	background-color:orange
+}
+
+.black {
+	background-color:black
+}
+
+.purple {
+	background-color:purple
+}
+
+.magenta {
+	background-color:magenta
+}
+
+.grey {
+	background-color:grey
+}
+
+table {
+	margin: auto;
+	width: 600px;
+	height: 600px;
+	
+}
+
+p {
+	color: white;
+}
